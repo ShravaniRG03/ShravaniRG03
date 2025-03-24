@@ -1,16 +1,28 @@
-## Hi there 👋
+# Hi, I'm Shravani Gundaye
 
-<!--
-**ShravaniRG03/ShravaniRG03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔹 **Python | SQL | AWS Cloud | Cybersecurity Enthusiast**  
 
-Here are some ideas to get you started:
+**Computer Engineering Student** with experience in **Python, AWS Cloud, and cybersecurity**. Passionate about learning new technologies, problem-solving, and building secure and scalable solutions. Constantly improving my skills to stay ahead in the tech industry. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+---
+
+## 🏆 Featured Projects  
+
+### 🔹 **Employee Management System** (Python, Tkinter, SQLite)  
+A **desktop app** to manage employee records, visualize top earners using **Matplotlib**, and fetch real-time location & temperature via APIs.  
+🔗 [Employee Management System](https://github.com/ShravaniRG03/Employee-Management-System) 
+
+### 🔹 **AWS Cloud Networking**  
+Implemented **secure VPC architecture**, launched EC2 instances, and tested connectivity.  
+🔗 [AWS Cloud Networking](https://github.com/ShravaniRG03/AWS-VPC-Peering) 
+
+---
+
+## 🤝 Connect with Me  
+
+🔗 [LinkedIn](www.linkedin.com/in/shravanigundaye) 
+
+---
+
+⭐ **If you like my work, consider giving my repositories a star!** ⭐  
