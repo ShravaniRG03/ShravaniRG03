@@ -21,7 +21,7 @@ Implemented **secure VPC architecture**, launched EC2 instances, and tested conn
 
 ## 🤝 Connect with Me  
 
-🔗 [LinkedIn](www.linkedin.com/in/shravanigundaye) 
+🔗 [LinkedIn](https://www.linkedin.com/in/shravanigundaye) 
 
 ---
 
